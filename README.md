@@ -1,6 +1,6 @@
-## Hey, ouuan here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+## Hey, TonoT here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=TonoT&style=flat-square)](https://codeforces.com/profile/TonoT)
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
+<img align="right" alt="TonoT's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=TonoT&show_icons=true">
 
 I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
